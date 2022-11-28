@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668675733 source:c:\users\noura.faci\desktop\cours-c\saé\kickoff\inscriptions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
